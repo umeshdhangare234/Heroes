@@ -1,4 +1,4 @@
-import { Crisis } from "./crisis-center/crisis";
+import { Crisis } from "./crisis";
 
 export const CRISES:Crisis[] = [
     { id: 1, name: 'Dragon Burning Cities' },

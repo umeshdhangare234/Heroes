@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { Crisis } from './crisis';
-import { CRISES } from '../mock-crisis';
+import { CRISES } from './mock-crisis';
 import {  BehaviorSubject } from 'rxjs';
 import { map } from 'rxjs/operators';
 
