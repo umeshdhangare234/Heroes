@@ -6,7 +6,7 @@ Visit Site : [Visit the link](http://localhost:4200/)
 
 # Preview 
 
-<img src="../src/assets/images/preview.jpg">
+<img src="./src/assets/images/preview.jpg">
 
 ## Development server
 
